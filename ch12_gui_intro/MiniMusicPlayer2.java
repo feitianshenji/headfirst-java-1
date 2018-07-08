@@ -22,7 +22,7 @@ public class MiniMusicPlayer2 implements ControllerEventListener {
 
 
 
-    class MyDrawPanel extneds JPanel implements ControllerEventListener {
+    class MyDrawPanel extends JPanel implements ControllerEventListener {
 
         boolean msg = false;
 
